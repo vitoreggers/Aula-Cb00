@@ -1,0 +1,14 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+header{
+ background-color: black;
+ color: brown;
+ justify-content: space-around;
+} 
+.cabeçalho-lista-item{
+  display: inline-block;
+    margin: 0%;
+    padding: 0%;
+}
